@@ -1,0 +1,7 @@
+.idea/
+cmake-build-debug/
+CMakeLists.txt
+venv/
+test.csv
+Versuchspersonen_A_AR_2_Malbuch_Aufzeichnung.csv
+*.png
